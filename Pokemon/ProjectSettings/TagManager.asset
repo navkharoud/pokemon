@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Foreground
+  - Box
+  - PickUp
+  - Inventory
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Objects
+  - Grass
+  - Consumables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1473762105
+    locked: 0
+  - name: Foreground
+    uniqueID: 649461849
+    locked: 0
+  - name: Sign
+    uniqueID: 3281591845
+    locked: 0
+  - name: Player
+    uniqueID: 2270225963
+    locked: 0
+  - name: Consumable
+    uniqueID: 2538447343
+    locked: 0

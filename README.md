@@ -1,5 +1,5 @@
-# Assignment #5
-# Navkaran Singh 3119008
+
+# Navkaran Singh 
 ## About the game: 
 ### This game is similar to the older pokemon red and blue games for the NES, The main reason for choosing Pokemon was that was the first thing that came to my mind after the 2d RPG tutorial. This is a 2d Tile based movement game with a battle system which pops up when youre in battle mode. I used various tutorials from youtube and answers from stackoverflow to finish up most of the game. 
 ### The game also uses sword fighting mechenics to battle some in world enemies and combines battles with pokemons as well as regualar enemies
